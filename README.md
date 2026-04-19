@@ -57,9 +57,9 @@ SwarmCoder/
 
 MIT License
 
-## 👤 Author
 
-Daniel Ideborn - [@danielaideborn](https://github.com/danielaideborn)
+
+
 
 ---
 
